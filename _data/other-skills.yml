@@ -3,7 +3,7 @@
   level: Medium
   color: info
 
-- name: fencing
+- name: Fencing
   percentage: 80
   level: Expert
   color: success
