@@ -8,7 +8,7 @@
   level: Expert
   color: success
 
-  - name: Photography
+- name: Photography
   percentage: 40
   level: Medium
   color: danger
