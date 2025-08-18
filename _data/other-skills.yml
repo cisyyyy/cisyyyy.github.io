@@ -1,10 +1,10 @@
-- name: Fencing
-  percentage: 85
-  level: Expert
-  color: info
+- name:  Fencing
+  percentage:  85
+  level:  Expert
+  color:  info
 
-- name: Photography
-  percentage: 40
-  level: Medium
-  color: success
+- name:  Photography
+  percentage:  40
+  level:  Medium
+  color:  success
   
