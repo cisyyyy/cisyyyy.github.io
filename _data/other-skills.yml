@@ -1,9 +1,10 @@
 - name: Fencing
-  percentage: 80
+  percentage: 85
   level: Expert
-  color: success
+  color: info
 
 - name: Photography
   percentage: 40
   level: Medium
-  color: danger
+  color: success
+  
