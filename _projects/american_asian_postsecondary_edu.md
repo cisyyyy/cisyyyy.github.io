@@ -1,7 +1,7 @@
 ---
 name: Postsecondary Education of Asian in the US
 tools: [Power BI, HTML, Python]
-image: assets/pngs/cars.png
+image: assets/pngs/project.image.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
 custom_js:
   - vega.min
