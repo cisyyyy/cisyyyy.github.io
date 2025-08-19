@@ -1,8 +1,9 @@
 ---
-layout: project
-title: "Boston Supplier Diversity Dashboard"
-description: "An interactive Power BI dashboard showing supplier diversity insights."
-img: /assets/images/powerbi-thumbnail.png   # 预览图片路径（可选）
+title: "Power BI Dashboard"
+description: "Interactive dashboard built with Power BI"
+img: "/assets/img/powerbi-dashboard.png"
+importance: 1
+category: "Data Visualization"
 ---
 
-这里写更多介绍，比如你的项目背景、用到的技术栈、你在里面的贡献等。
+[查看在线版本](https://app.powerbigov.us/view?r=eyJrIjoiZGRkZTc2YzAtZTE2ZS00MWIyLTk5YTctNzFiODc5Y2U0ZmU3IiwidCI6Ijg1NTI4ODdjLWNiYzMtNGVlNS05ZmQzLWVhMjE3ZTMwMjZmYyJ9)
