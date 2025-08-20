@@ -10,14 +10,11 @@ custom_js:
   - justcharts
 ---
 
-
 # How is University life for Asians in the US?
 
 Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html) that was also used in [our test import script](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb).
 
-We can use a vegachart HTML tag like so:
-<iframe title="phd form" width="1140" height="541.25" src="https://app.powerbigov.us/reportEmbed?reportId=0a705c93-20b8-4004-8915-06f1ace54e4f&autoAuth=true&ctid=8552887c-cbc3-4ee5-9fd3-ea217e3026fc" frameborder="0" allowFullScreen="true"></iframe>
-
+<!-- 按钮部分 -->
 <div class="left">
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
@@ -25,15 +22,10 @@ We can use a vegachart HTML tag like so:
 <div class="right">
 {% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
 </div>
-```
 
-<!-- these are written in a combo of html and liquid --> 
+---
 
-<div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
-</div>
-
+<!-- Power BI 报表嵌入 -->
+<iframe title="phd form" width="1140" height="541.25" 
+src="https://app.powerbigov.us/reportEmbed?reportId=0a705c93-20b8-4004-8915-06f1ace54e4f&autoAuth=true&ctid=8552887c-cbc3-4ee5-9fd3-ea217e3026fc" 
+frameborder="0" allowFullScreen="true"></iframe>
