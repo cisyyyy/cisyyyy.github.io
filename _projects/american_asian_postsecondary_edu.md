@@ -16,18 +16,8 @@ custom_js:
 Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html) that was also used in [our test import script](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb).
 
 We can use a vegachart HTML tag like so:
-
-```
 <iframe title="phd form" width="1140" height="541.25" src="https://app.powerbigov.us/reportEmbed?reportId=0a705c93-20b8-4004-8915-06f1ace54e4f&autoAuth=true&ctid=8552887c-cbc3-4ee5-9fd3-ea217e3026fc" frameborder="0" allowFullScreen="true"></iframe>
 
-
-
-
-## Search The Data & Methods
-
-Below is where we can put some links to both the data and the analysis code as buttons:
-
-```
 <div class="left">
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
