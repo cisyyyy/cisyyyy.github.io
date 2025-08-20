@@ -18,11 +18,7 @@ Example comes from this [great blog post right here](https://blog.4dcu.be/progra
 We can use a vegachart HTML tag like so:
 
 ```
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
-```
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
-
+<iframe title="phd form" width="1140" height="541.25" src="https://app.powerbigov.us/reportEmbed?reportId=0a705c93-20b8-4004-8915-06f1ace54e4f&autoAuth=true&ctid=8552887c-cbc3-4ee5-9fd3-ea217e3026fc" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
