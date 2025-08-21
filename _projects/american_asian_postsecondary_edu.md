@@ -97,6 +97,7 @@ After finishing undergraduate or higher education, Asian students usually earn a
 
 In conclusion, educational fairness in the United States has been improving, and minority students are receiving more support, which offers them better prospects.
 Economically, Asian students are gaining more financial aid each year, showing progress in the fairness of economic support.
+
 In terms of policy, new programs and laws continue to help minority students access higher education. However, the fairness of the admission system still needs improvement. The imbalance caused by racial differences goes against the purpose of education. I hope that in the future, through more discussion and effort, the admission process can become fairer.
 
 At the student level, belonging and mental health support are also important. Many universities have created resource centers that give minority students guidance and care. Yet, cultural barriers are not easy to remove. Minority students not only need support within their own groups, but also communication with others. By sharing their ideas, they can reduce misunderstandings about their background. Cultural exchange classes or events, such as festivals, can bring students together, increase their sense of belonging, and improve their mental health.
