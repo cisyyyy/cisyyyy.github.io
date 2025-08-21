@@ -33,4 +33,11 @@ In this little project, I collected data and other types of information, which i
 ---
 
 <!-- Power BI 报表嵌入 -->
-<iframe title="phd form" width="600" height="373.5" src="https://app.powerbigov.us/view?r=eyJrIjoiZGRkZTc2YzAtZTE2ZS00MWIyLTk5YTctNzFiODc5Y2U0ZmU3IiwidCI6Ijg1NTI4ODdjLWNiYzMtNGVlNS05ZmQzLWVhMjE3ZTMwMjZmYyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<div style="position:relative; margin:0 auto; max-width:1200px; padding-top:56.25%;">
+  <iframe 
+    title="phd form"
+    src="https://app.powerbigov.us/view?r=eyJrIjoiZGRkZTc2YzAtZTE2ZS00MWIyLTk5YTctNzFiODc5Y2U0ZmU3IiwidCI6Ijg1NTI4ODdjLWNiYzMtNGVlNS05ZmQzLWVhMjE3ZTMwMjZmYyJ9"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allowfullscreen="true">
+  </iframe>
+</div>
