@@ -1,6 +1,6 @@
 ---
 name: Postsecondary Education of Asians in the US
-tools: [Power BI, HTML, JSON]
+tools: [Power BI, HTML, Python]
 image: assets/pngs/project.image.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
 custom_js:
@@ -12,7 +12,12 @@ custom_js:
 
 # How is University life for Asians in the US?
 
-Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html) that was also used in [our test import script](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb).
+As a rising senior, I understand the importance of having access to universities, and I'm looking forward to my undergraduate school life as well. Gradually growing up, I became increasingly curious about how university life would be like.
+According to information presented to the public found in NCES and on the Internet, I investigated what university life would be like for Asians. 
+In this little project, I collected data and other types of information, which include issues of financial aid, policy, and cultural differences.
+
+# Dashboard
+
 
 <!-- 按钮部分 -->
 <div class="left">
