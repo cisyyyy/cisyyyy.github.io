@@ -69,4 +69,17 @@ The proportion of Asian students who earn bachelor’s and higher degrees is inc
 After finishing undergraduate or higher education, Asian students usually earn a higher median income compared to other groups. Also, there's a positive correlation: the higher the degree, the higher the median income. This shows that for Asian students in the U.S., income after graduation is closely related to education level.
 
 # More Discoveries
-1.
+1. Policy
+   According to the US Department of Education, Wikipedia, and other sources of information, it's apparent that several policies have been implemented, offering a better setting for development.
+   
+   Admissions
+In 2023, the U.S. Supreme Court ended the long-used race-based admission policy（affirmative action） in colleges. This decision was seen as a way to make education more fair. However, legacy admissions (special priority for children of alumni) still preclude true fairness in the admission process.
+
+Prior research reports—such as the Harvard Kennedy School Working Paper (2023), the IHEP Report “Legacy Admissions: The Unfair Advantage”, and the book "No Longer Separate, Not Yet Equal" by Espenshade and Radford—showed that racial unfairness in admissions lowers the acceptance rates of minority students and greatly reduces their chances to receive higher education. Fortunately, these problems are now being noticed and slowly being improved.
+
+   Supporting Resources
+Some policies focusing on AAPI (Asian American and Pacific Islander) students have been created to support Asian students in higher education. These policies include suggestions on helping immigrant, bilingual, and refugee Asian students, reducing unfair punishment, and improving college preparation support. In addition, the Asian American University Resource Center has been set up to provide substantial help for Asian students in the U.S., encouraging mutual support and a sense of belonging among different Asian groups.
+
+
+# Summary
+
