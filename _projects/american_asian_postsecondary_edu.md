@@ -105,7 +105,7 @@ After finishing undergraduate or higher education, Asian students usually earn a
   - [U.S. Department of Education: Higher Education Policy](https://www.ed.gov/laws-and-policy/higher-education-laws-and-policy/higher-education-policy)  
   - [Wikipedia: Legacy Preferences](https://en.wikipedia.org/wiki/Legacy_preferences)  
   - [IHEP Report: Legacy Admissions](https://www.ihep.org/legacy-admissions-report)  
-  - [Harvard Kennedy School Working Paper](https://dash.harvard.edu/handle/1/37371446)
+  - [Harvard Kennedy School Working Paper(2023)](https://dash.harvard.edu/handle/1/37371446)
 
 - **Research on Students' Mental Health**:  
   - [Wikipedia: Asian American University Resource Center](https://en.wikipedia.org/wiki/Asian_American_university_resource_center)  
