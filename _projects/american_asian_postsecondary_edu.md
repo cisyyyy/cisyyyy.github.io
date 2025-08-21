@@ -17,6 +17,14 @@ According to information presented to the public found in NCES and on the Intern
 
 In this little project, I collected data and other types of information, which include issues of financial aid, policy, and cultural differences.
 
+# What is Education?
+I am not good at giving definitions, but as a student, I've developed my unique insight into the term: education. In my opinion, education should be accessible to all people. I believe that most people should be offered a chance to study.
+Therefore, I checked the information on the policy, financial aid, and so on.
+
+What's more, education is not only about learning some skills, but it's about building oneself.
+The final goal of education is obtaining a better life by using the skills people have learnt. Therefore, when investigating the school lives of students, we can't partially focus on their academic performance. 
+Instead, paying attention to their mental health is also required, so I also took a look at some research on students' feelings when they're on campus.
+
 # Dashboard
 
 <!-- 按钮部分 -->
@@ -46,6 +54,19 @@ In this little project, I collected data and other types of information, which i
 </div>
 
 # Analysis of Data
+1. Enrollment Rate and Graduation Rate
+By comparing enrollment and graduation rates among different ethnic groups, we can see that Asian students have the highest enrollment rate. At the same time, their graduation rate within 4–6 years at undergraduate schools is also relatively high.
+The high enrollment rate may come from the importance Asian families place on higher education and the relatively strong financial support they can give. The high graduation rate shows that Asian students put emphasis on completing their degrees and also have strong abilities.
 
+2. Financial Aid
+Asian students receive financial aid at a relatively lower rate, but the average amount of aid they get is relatively high.
+This shows that the financial situation of Asian families is polarized. Some families have strong financial support and do not rely much on aid, while others depend more on aid and have significant financial needs.
+
+3. Degree Attainment
+The proportion of Asian students who earn bachelor’s and higher degrees is increasing, which shows that Asian students often tend to continue further study, reflecting their pursuit of higher education levels.
+
+4. Income After Graduation
+After finishing undergraduate or higher education, Asian students usually earn a higher median income compared to other groups. Also, there's a positive correlation: the higher the degree, the higher the median income. This shows that for Asian students in the U.S., income after graduation is closely related to education level.
 
 # More Discoveries
+1.
