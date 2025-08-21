@@ -21,12 +21,14 @@ In this little project, I collected data and other types of information, which i
 
 <!-- 按钮部分 -->
 <div class="left">
-   {% include elements/button.html link="{{ site.baseurl }}/assets/phd_clean.xlsx" text="The Data" %}
+  <a href="{{ site.baseurl }}/assets/phd_clean.xlsx" download 
+     style="display:inline-block;padding:10px 20px;background:#0078D7;color:#fff;
+            text-decoration:none;border-radius:5px;">
+     Download The Data
+  </a>
 </div>
 
-<div class="right">
-   {% include elements/button.html link="{{ site.baseurl }}/assets/phd_clean.xlsx" text="The Analysis" %}
-</div>
+
 
 ---
 
