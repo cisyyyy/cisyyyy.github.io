@@ -21,11 +21,11 @@ In this little project, I collected data and other types of information, which i
 
 <!-- 按钮部分 -->
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+  {% include elements/button.html link="{{ site.baseurl }}/assets/phd_clean.xlsx" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
+  {% include elements/button.html link="{{ site.baseurl }}/assets/phd_clean.xlsx" text="The Analysis" %}
 </div>
 
 ---
