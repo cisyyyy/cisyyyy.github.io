@@ -19,7 +19,6 @@ In this little project, I collected data and other types of information, which i
 
 # Dashboard
 
-
 <!-- 按钮部分 -->
 <div class="left">
   <a href="{{ site.baseurl }}/assets/phd_clean.xlsx" download 
@@ -32,6 +31,7 @@ In this little project, I collected data and other types of information, which i
 
 
 ---
+
 
 <!-- Power BI 报表嵌入 -->
 <div style="position:relative; margin:0 auto; max-width:1200px; padding-top:56.25%;">
