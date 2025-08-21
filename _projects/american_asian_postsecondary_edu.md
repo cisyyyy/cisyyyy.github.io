@@ -20,13 +20,15 @@ In this little project, I collected data and other types of information, which i
 # Dashboard
 
 <!-- 按钮部分 -->
-<div class="left">
-  <a href="{{ site.baseurl }}/assets/phd_clean.xlsx" download 
-     style="display:inline-block;padding:10px 20px;background:#0078D7;color:#fff;
-            text-decoration:none;border-radius:5px;">
+<!-- 下载按钮部分 -->
+<div style="text-align:center; margin:20px 0;">
+  <a href="{{ site.baseurl }}/assets/phd_clean.xlsx" download
+     style="display:inline-block; padding:10px 20px; background:#0078D7; color:#fff;
+            text-decoration:none; border-radius:6px; font-weight:bold;">
      Download The Data
   </a>
 </div>
+
 
 
 
