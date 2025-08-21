@@ -82,6 +82,7 @@ After finishing undergraduate or higher education, Asian students usually earn a
    Some policies focusing on AAPI (Asian American and Pacific Islander) students have been created to support Asian students in higher education. These policies include suggestions on helping immigrant, bilingual, and refugee Asian students, reducing unfair punishment, and improving college preparation support. In addition, the Asian American University Resource Center has been set up to provide substantial help for Asian students in the U.S., encouraging mutual support and a sense of belonging among different Asian groups.
 
 2. Sense of Belonging & Mental Health
+
    A sense of belonging on campus is closely related to students’ mental health. The higher the sense of belonging, the better their mental health, which then influences their educational outcomes. Therefore, students’ sense of belonging and access to mental health support should be taken seriously.
 
    For a long time, cultural differences between East and West have been a difficult gap to bridge. Even today, these differences and the stereotypes that come from them still affect Asian students.
