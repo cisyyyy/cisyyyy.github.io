@@ -83,3 +83,24 @@ Some policies focusing on AAPI (Asian American and Pacific Islander) students ha
 
 # Summary
 
+
+
+
+# Information Sources
+
+- **Data of the Dashboard**: [NCES Current Tables](https://nces.ed.gov/programs/digest/current_tables.asp)
+
+- **Policy of Education**:  
+  - [U.S. Department of Education: Higher Education Policy](https://www.ed.gov/laws-and-policy/higher-education-laws-and-policy/higher-education-policy)  
+  - [Wikipedia: Legacy Preferences](https://en.wikipedia.org/wiki/Legacy_preferences)  
+  - [IHEP Report: Legacy Admissions](https://www.ihep.org/legacy-admissions-report)  
+  - [Harvard Kennedy School Working Paper](https://dash.harvard.edu/handle/1/37371446)
+
+- **Research on Students' Mental Health**:  
+  - [Wikipedia: Asian American University Resource Center](https://en.wikipedia.org/wiki/Asian_American_university_resource_center)  
+  - [PubMed Article](https://pubmed.ncbi.nlm.nih.gov/36853990/)  
+  - [Verywell Mind: Model Minority Myth](https://www.verywellmind.com/what-is-the-model-minority-myth-6259907)
+
+                    
+
+
