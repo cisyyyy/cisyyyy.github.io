@@ -17,13 +17,14 @@ According to information presented to the public found in NCES and on the Intern
 
 In this little project, I collected data and other types of information, which include issues of financial aid, policy, and cultural differences.
 
-# What is Education?
-I am not good at giving definitions, but as a student, I've developed my unique insight into the term: education. In my opinion, education should be accessible to all people. I believe that most people should be offered a chance to study.
+# What is Education & How I made this?
+I am not good at giving definitions, but as a student, I've developed my relatively superficial insight into the term: education. In my opinion, education should be accessible to all people. I believe that most people should be offered a chance to study.
 Therefore, I checked the information on the policy, financial aid, and so on.
 
-What's more, education is not only about learning some skills, but it's about building oneself.
-The final goal of education is obtaining a better life by using the skills people have learnt. Therefore, when investigating the school lives of students, we can't partially focus on their academic performance. 
+What's more, education is not only about learning some skills, but it's about building oneself and future development. Therefore, when investigating the school lives of students, we can't partially focus on their academic performance. 
 Instead, paying attention to their mental health is also required, so I also took a look at some research on students' feelings when they're on campus.
+
+Last but not least, education cannot be single-handedly represented by the marks students have gotten; it's a long-term issue. Then I check the information related to students' living situation to see the effect of higher education. 
 
 # Dashboard
 
