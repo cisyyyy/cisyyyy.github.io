@@ -14,7 +14,7 @@ custom_js:
 
 As a rising senior, I understand the importance of having access to universities, and I'm looking forward to my undergraduate school life as well. Gradually growing up, I became increasingly curious about how university life would be like.
 According to information presented to the public found in NCES and on the Internet, I investigated what university life would be like for Asians. 
-# 
+
 In this little project, I collected data and other types of information, which include issues of financial aid, policy, and cultural differences.
 
 # Dashboard
